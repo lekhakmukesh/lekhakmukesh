@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lekhakmukesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lekhakmukesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img align="right" height="150" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/56702403_2091978517518702_2491657205837725696_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=53a332&_nc_ohc=VQ8C66t7RqYQ7kNvgG_mhBI&_nc_ht=scontent.fktm8-1.fna&oh=00_AYBk_LeoTbRuTn1Wi7-_3UwHeTVbmVTg6jbMBPt5uoiPxQ&oe=6716FBB0"  />
@@ -47,5 +54,11 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lekhakmukesh/lekhakmukesh/output/snake.svg" alt="Snake animation" />
 
 ###
